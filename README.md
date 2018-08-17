@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator program made in C++ using Stacks.
+A simple calculator program made in C++ using Stacks..
